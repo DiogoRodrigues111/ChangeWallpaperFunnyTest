@@ -1,0 +1,9 @@
+C:\TileSoft\Wallpaper\Wallpaper\bin\Debug\Wallpaper.exe.config
+C:\TileSoft\Wallpaper\Wallpaper\bin\Debug\Wallpaper.exe
+C:\TileSoft\Wallpaper\Wallpaper\bin\Debug\Wallpaper.pdb
+C:\TileSoft\Wallpaper\Wallpaper\obj\Debug\Wallpaper.csprojAssemblyReference.cache
+C:\TileSoft\Wallpaper\Wallpaper\obj\Debug\Wallpaper.Form1.resources
+C:\TileSoft\Wallpaper\Wallpaper\obj\Debug\Wallpaper.Properties.Resources.resources
+C:\TileSoft\Wallpaper\Wallpaper\obj\Debug\Wallpaper.csproj.GenerateResource.cache
+C:\TileSoft\Wallpaper\Wallpaper\obj\Debug\Wallpaper.exe
+C:\TileSoft\Wallpaper\Wallpaper\obj\Debug\Wallpaper.pdb
